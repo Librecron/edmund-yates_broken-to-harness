@@ -27,8 +27,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
 		<link href="onix.xml" rel="onix-record"/>
-		<dc:title id="title">Edmund Yates</dc:title>
-		<meta property="file-as" refines="#title">Edmund Yates</meta>
+		<dc:title id="title">Broken to Harness</dc:title>
+		<meta property="file-as" refines="#title">Broken to Harness</meta>
 		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
 		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">LOC_URL_1</meta>
@@ -45,7 +45,7 @@
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Edmund_Yates</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/broken-to-harness_edmund-yates</meta>
-		<dc:creator id="author">Broken to Harness</dc:creator>
+		<dc:creator id="author">Edmund Yates</dc:creator>
 		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
 		<meta property="se:name.person.full-name" refines="#author">AUTHOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edmund_Yates</meta>
